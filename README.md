@@ -6,3 +6,5 @@ There are 8000 images in each zip file, the secret message was LSB encrypted usi
 The secret message is as follows: "This is a secret. I am B00088691."
 
 8000 images from each tool on the same dataset makes up the 24000 images.
+
+Datasets made from the CIFAR 10 datset mirror: https://www.cs.toronto.edu/~kriz/cifar.html
